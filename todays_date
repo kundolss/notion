@@ -22,7 +22,7 @@
       }
 
       #date{
-          font-size:12pt;
+          font-size:15pt;
           font-weight: bold;
       }
 
